@@ -4,9 +4,10 @@
 
 
 
-> Git背景
->Git 有三种状态，你的文件可能处
-于其中之一：已提交（committed）、已修改（modified）和已暂存（staged）。
+> Git背景:
+> Git 有三种状态，你的文件可能处
+> 于其中之一：已提交（committed）、已修改（modified）和已暂存（staged）。
+>
 > 安装Git
 
 
